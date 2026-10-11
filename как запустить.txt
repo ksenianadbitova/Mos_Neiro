@@ -1,0 +1,7 @@
+в повершел зайти, написать
+cd и путь папки
+.\venv\Scripts\Activate.ps1
+main.py
+
+если венв нет:
+python -m venv venv, активируй и установи библиотеки командой python -m pip install customtkinter pillow sympy matplotlib wikipedia-api requests beautifulsoup4 python-docx ddgs deep-translator rapidocr-onnxruntime.
